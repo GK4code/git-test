@@ -1,1 +1,1 @@
-console.log("Original code");
+console.log("Friends Version");
